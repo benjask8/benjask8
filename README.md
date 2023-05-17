@@ -1,9 +1,5 @@
-<style>
-body{
-        background:#000;
-    }
-</style>
-<h1 align="center">Hola! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<div style="background:#000">
+        <h1 align="center">Hola! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
 <p align="center">
     <b>Bienvenidos a mi Pagina!</b><br><br>
@@ -41,3 +37,5 @@ body{
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
+
